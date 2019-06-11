@@ -1,4 +1,7 @@
-# Gelson Cardoso / Exam 1 - Part 1
+# bmi_caulculator.py
+
+# Gelson Cardoso
+
 # This is my Python BMI Calculator. It can calculate using both Metric and Imperial units
 
 def main():
