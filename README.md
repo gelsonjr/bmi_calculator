@@ -12,4 +12,4 @@ We were learning the basics of functions and conditional statements at the time.
 This program takes a value input from the user and calculates the minimum number of tokens that can make
 up to that amount
 
-![bmi_calculator](/bmi_pic.jpg)
+![bmi_calculator](/pic.jpg)
